@@ -1,0 +1,49 @@
+.header-container{
+    height: 75px;
+    display: flex;
+    
+    background-color: #23395b;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.logo-container{
+    flex-grow: 2;
+    padding: 10px;
+    color: white;
+    font-weight:bold;
+    font-size: x-large;
+}
+.header-items{
+    display: flex;
+    flex-grow:1;
+    justify-content: space-around;
+    padding: 10px;
+    
+    
+}
+
+.header-items a{
+    color: white;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: x-large;
+    
+   
+}
+
+.profile-container {
+    display: flex;
+    flex-grow: 2;
+    justify-content: flex-end;
+    padding: 10px;
+
+}
+.profile-container a{
+    text-decoration: none;
+    color: white;
+    font-weight: 500;
+    font-size: x-large;
+
+}
+
