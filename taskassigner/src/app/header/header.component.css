@@ -9,7 +9,10 @@
 }
 .logo-container{
     flex-grow: 2;
-    padding: 10px;
+    padding: 10px;  
+}
+.logo-container a{
+    text-decoration: none;
     color: white;
     font-weight:bold;
     font-size: x-large;

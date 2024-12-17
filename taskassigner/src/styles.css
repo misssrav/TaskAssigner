@@ -12,3 +12,5 @@
 }
 /* primary color: #23395b
 sec_color: #CADAEC*/
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
